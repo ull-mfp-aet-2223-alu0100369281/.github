@@ -1,4 +1,4 @@
-# BIENVENIDO a la Organización de la Asignatura Tecnología de 1º de FP
+# BIENVENIDO a la Organización de la Asignatura del primer curso de FP **Tecnología**
 
 En esta asignatura nos centraremos en estudiar la tecnología desde un punto de vista práctico.
 
